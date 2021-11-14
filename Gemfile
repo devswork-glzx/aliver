@@ -8,5 +8,3 @@ gem 'github-pages', group: :jekyll_plugins do
   gem 'rouge'
 end
 
-
-gem "webrick", "~> 1.7"
