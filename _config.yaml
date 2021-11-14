@@ -7,6 +7,8 @@ avatar: imgradeone
 reddit: imgradeone
 twitter: imgradeone
 
+future: true
+
 authors:
   imgradeone:
     name: "imgradeone"
@@ -40,5 +42,4 @@ kramdown:
     block:
       line_numbers: true
 
-future: false # Allows us to stage posts
 exclude: [README.md, Gemfile, Gemfile.lock, vendor]
