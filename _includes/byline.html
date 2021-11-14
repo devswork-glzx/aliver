@@ -10,9 +10,11 @@
   <div class="avatar">
     <img
       {% if author.avatar %}
+        srcset="{{ site.baseurl }}/avatar/{{ author.avatar }}.png 2x"
         src="{{ site.baseurl }}/avatar/{{ author.avatar }}.png"
         alt="{{ author.name }} 的头像"
       {% else %}
+        srcset="{{ site.baseurl }}/avatar/{{ author.avatar }}.png 2x"
         src="{{ site.baseurl }}/avatar/{{ site.avatar }}.png"
         alt="头像"
       {% endif %}
