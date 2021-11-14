@@ -1,0 +1,4 @@
+{% assign post = include.post %}
+{% assign postSecs = post.date | date: '%s' %}
+{% assign nowSecs = 'now' | date: '%s' %}
+{% assign ageSecs = nowSecs | minus: postSecs %}

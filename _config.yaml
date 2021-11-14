@@ -1,0 +1,44 @@
+title: "Codename: Aliver"
+description: "让桂中活在你的面前。"
+permalink: /:title/
+theme-color: "#f66201"
+avatar: imgradeone
+
+reddit: imgradeone
+twitter: imgradeone
+
+authors:
+  imgradeone:
+    name: "imgradeone"
+    description: "@ 开发者工坊"
+    avatar: imgradeone
+  csg:
+    name: "CSG 广播站"
+    avatar: csg
+  glzx:
+    name: "桂中快讯"
+    avatar: glzx
+  sgyk:
+    name: "时光驿客"
+    avatar: sgyk
+  annoymous:
+    name: "未知作者"
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+paginate: 7
+paginate_path: "/archive/:num/"
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+future: false # Allows us to stage posts
+exclude: [README.md, Gemfile, Gemfile.lock, vendor]

@@ -1,0 +1,5 @@
+<span class="read-time" title="Estimated read time">
+  {% assign words = include.content | strip_html | strip_newlines | size %}
+  {{ words | divided_by: 350 | plus: 1 }} 分钟阅读
+</span>
+
