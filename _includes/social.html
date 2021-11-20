@@ -10,7 +10,7 @@
       rel="noreferrer nofollow noopener"
       target="_blank"
       title="Twitter"
-      onclick="plausible('Share: Twitter')"
+      onclick="plausible('Twitter 分享')"
     >
       <img src="{{ '/images/twitter.svg' | prepend: site.baseurl }}" alt="Twitter" />
     </a>
@@ -20,6 +20,7 @@
       rel="noreferrer nofollow noopener"
       target="_blank"
       title="Telegram"
+      onclick="plausible('Telegram 分享')"
     >
       <img src="{{ '/images/telegram.svg' | prepend: site.baseurl }}" alt="Telegram" />
     </a>
@@ -29,6 +30,7 @@
       rel="noreferrer nofollow noopener"
       target="_blank"
       title="微博"
+      onclick="plausible('微博分享')"
     >
       <img src="{{ '/images/weibo.png' | prepend: site.baseurl }}" alt="微博" />
     </a>
@@ -47,7 +49,7 @@
 
 <script>
 function share() {
-  plausible('Share: Permalink');
+  plausible('链接分享');
 
   if (navigator.share) {
     navigator.share({
