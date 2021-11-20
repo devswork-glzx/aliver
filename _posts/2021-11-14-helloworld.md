@@ -8,7 +8,7 @@ author: imgradeone
 
 这里是由开发者工坊 桂林中学分部发起的全新项目，旨在汇总桂中各类消息，让桂中人快速获得想要的信息。
 
-目前我们主要整合 [CSG 广播站的每周歌单](https://glzx.lfdevs.com/aliver/tags/#csg-songlist)、桂中快讯的更新内容、中国网小记者的新闻内容（版权原因只放链接）、社团内容更新。
+目前我们主要整合 [CSG 广播站的每周歌单](https://glzx.lfdevs.com/aliver/tags/#csg-songlist)、桂中快讯的更新内容、[中国网小记者的新闻内容](https://glzx.lfdevs.com/aliver/tags/#chinacom-edu)（版权原因只放链接）、社团内容更新。
 
 限于桂中官网时常关闭服务器，我们希望 Aliver 项目能成为更多桂中人的新家。
 
@@ -28,11 +28,15 @@ author: imgradeone
 
 一般情况下，您不应在未提及原文链接的情况下转载本站的任何文章。
 
+## 侵权申诉
+
+如果本站的内容侵犯了您社团 / 部门的权益，请使用您的 QQ 邮箱，向 [imgradeone@outlook.com](mailto:imgradeone@outlook.com?subject=Aliver%20-%20内容侵权申诉) 发送邮件，主题为 `Aliver - 内容侵权申诉`（点击前序链接也可以），在正文里注明您的姓名、QQ 号、所处社团 / 部门，以及违规内容链接、违规原因。
+
 ## 对于校方
 校方，如果您认为部分内容不符学校的利益，或对学生的身心发展有害，可以向我们发起移除申请，我们将遵照校方意见对导引进行修改。
 
 申请方式：
 1. 通过社团管理群直接联系社长。  
-2. 使用您的 QQ 邮箱，向 [imgradeone@outlook.com](mailto:imgradeone@outlook.com?subject=Aliver%20-%20内容修改申请) 发送邮件，主题为 `Aliver - 内容修改申请`（点击前序链接也可以），在正文里注明您的姓名、QQ 号，以及违规内容链接、违规原因。
+2. 使用您的 QQ 邮箱，向 [imgradeone@outlook.com](mailto:imgradeone@outlook.com?subject=Aliver%20-%20校方内容修改申请) 发送邮件，主题为 `Aliver - 校方内容修改申请`（点击前序链接也可以），在正文里注明您的姓名、QQ 号，以及违规内容链接、违规原因。
 
 > 本节参考了 [温州市第五十一中学新生导引 联系我们](https://www.wz51z.wiki/联系我们.html) 页面。

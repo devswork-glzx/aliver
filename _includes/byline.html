@@ -8,6 +8,7 @@
 
 <div class="byline">
   <div class="avatar">
+    {% if include.link == true %}<a href="{{ site.baseurl }}/authors/#{{ include.author }}">{% endif %}
     <img
       {% if author.avatar %}
         srcset="{{ site.baseurl }}/avatar-2x/{{ author.avatar }}.png 2x"
@@ -19,6 +20,7 @@
         alt="头像"
       {% endif %}
     />
+    {% if include.link == true %}</a>{% endif %}  
   </div>
   <div class="author">
     {% if include.link == true %}<a href="{{ site.baseurl }}/authors/#{{ include.author }}">{% endif %}
