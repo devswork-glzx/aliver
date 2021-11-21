@@ -2,13 +2,12 @@
 title: "记 2021 年桂林中学校团委学生会参加五校交流活动"
 description: "青春征途，星辰大海"
 author: glzx
-image: https://cdn.jsdelivr.net/gh/devswork-glzx/aliver-images/2021-11-21-news-wuxiao/8.jpg
+image: https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/8.jpg
 
 tags:
 - news
 ---
 
-<!-- TODO: https://cdn.jsdelivr.net/gh/devswork-glzx/aliver-images/ to https://aliver-images.imgradeone.com/ but currently DON'T -->
 2021 年 11 月 19 日晚，我校校团委学生会应桂电中学校团委学生会的邀请，参加五校交流活动。出席本次活动的有我校校团委学生会干部代表学生会主席翟晓宇、学生会副主席陈唐柳依、团委副书记王天诚、团委组织部部长秦盈盈、生活部部长牟旭雅、社团部部长陶芯冉、纪检部部长卿敏鑫、新闻部部长蒋乐佳、外联部副部长俞快、文艺部副部长黄莉云，以及特邀嘉宾 424 班容梓瑀。
 
 五校交流是桂林中学、桂电中学、师大附中（广西师范大学附属中学）、中山中学、逸仙中学五个兄弟学校的学生会一年一度的交流工作经验，增进感情友谊，加强合作沟通的盛会。而本次交流会，也如往常之四个环节：开场致辞、经验分享、提问交流、赠礼留念。
@@ -22,16 +21,15 @@ tags:
 最后，祝愿五大兄弟学校友谊长存，共同发展，一起书写新时代的辉煌！
 
 <figure class="third" markdown="1">
-
-![](https://cdn.jsdelivr.net/gh/devswork-glzx/aliver-images/2021-11-21-news-wuxiao/1.jpg)
-![](https://cdn.jsdelivr.net/gh/devswork-glzx/aliver-images/2021-11-21-news-wuxiao/2.jpg)
-![](https://cdn.jsdelivr.net/gh/devswork-glzx/aliver-images/2021-11-21-news-wuxiao/3.jpg)
-![](https://cdn.jsdelivr.net/gh/devswork-glzx/aliver-images/2021-11-21-news-wuxiao/4.jpg)
-![](https://cdn.jsdelivr.net/gh/devswork-glzx/aliver-images/2021-11-21-news-wuxiao/5.jpg)
-![](https://cdn.jsdelivr.net/gh/devswork-glzx/aliver-images/2021-11-21-news-wuxiao/6.jpg)
-![](https://cdn.jsdelivr.net/gh/devswork-glzx/aliver-images/2021-11-21-news-wuxiao/7.jpg)
-![](https://cdn.jsdelivr.net/gh/devswork-glzx/aliver-images/2021-11-21-news-wuxiao/8.jpg)
-![](https://cdn.jsdelivr.net/gh/devswork-glzx/aliver-images/2021-11-21-news-wuxiao/9.jpg)
+![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/1.jpg)
+![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/2.jpg)
+![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/3.jpg)
+![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/4.jpg)
+![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/5.jpg)
+![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/6.jpg)
+![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/7.jpg)
+![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/8.jpg)
+![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/9.jpg)
 
 </figure>
 
