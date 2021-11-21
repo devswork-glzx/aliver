@@ -32,3 +32,7 @@ tags:
 ---
 
 文案编辑 / 贺图制作：imgradeone
+
+<div style="text-align: center">
+  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.glzxsgyk.com/3rd-anniversary/3840x2160.png" class="button">获取 4K 版贺图</a></p>
+</div>

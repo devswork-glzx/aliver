@@ -17,9 +17,9 @@ tags:
 
 ## 社团合作
 
-目前所有内容都由开发者工坊的社员手动更新，暂时未和任何社团进行正式合作。不过，我们欢迎所有社团与我们展开合作。
+目前所有内容都由开发者工坊的社员手动更新，暂时未和任何社团进行正式合作。不过，我们欢迎校团委学生会部门和所有社团与我们展开合作。
 
-您可以向 [imgradeone@outlook.com](mailto:imgradeone@outlook.com?subject=Aliver%20-%20社团合作申请) 发送邮件，主题为 `Aliver - 社团合作申请`（点击前序链接也可以），并在正文注明您的 QQ 号、管理的社团名称和 GitHub（或 Gitee）个人主页链接（可选）。
+您可以向 [imgradeone@outlook.com](mailto:imgradeone@outlook.com?subject=Aliver%20-%20社团合作申请) 发送邮件，主题为 `Aliver - 社团合作申请`（点击前序链接也可以），并在正文注明您的 QQ 号、管理的社团名称（或校团委学生会部门名称）和 GitHub（或 Gitee）个人主页链接（可选）。
 
 如果您知道如何使用 Git 和 GitHub（Gitee 也可以），并备注了 GitHub / Gitee 的个人空间链接，我将邀请您直接加入 Aliver 仓库的成员列表中。（所有社团文章，请在 `dev` 分支及 `_posts/_drafts` 文件夹下修改）
 
@@ -54,3 +54,5 @@ tags:
 本站采用了由 elementary 设计的 [Jekyll 博客模板](https://github.com/elementary/blog-template)，在此致谢。
 
 本站在 [GitHub](https://github.com/devswork-glzx/aliver) 开源，并使用 GitHub Pages 进行部署。
+
+本站也同样启用了支持自建的 Plausible 统计服务，所有页面访问数据均托管在 imgradeone 的服务器。您同样也可以查看 [公开的访问数据报表](https://stat.imgradeone.com/glzx.lfdevs.com)。
