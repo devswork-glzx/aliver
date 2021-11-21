@@ -29,13 +29,18 @@ tags:
 
 ## 转载须知
 
-一般情况下，您不应在未提及原文链接的情况下转载本站的任何文章。
+一般情况下，您不应在未提及原文链接的情况下转载本站的任何文章。如实在希望转载，请至少加上 `来源：桂林中学 Aliver 项目` 字样和文章源链接。
+
+## 关于历史内容
+如果你发现本站包含了建站之前的内容（从本文之后排序），属于正常现象。
 
 ## 侵权申诉
 
+### 对于社团和学生会部门
+
 如果本站的内容侵犯了您社团 / 部门的权益，请使用您的 QQ 邮箱，向 [imgradeone@outlook.com](mailto:imgradeone@outlook.com?subject=Aliver%20-%20内容侵权申诉) 发送邮件，主题为 `Aliver - 内容侵权申诉`（点击前序链接也可以），在正文里注明您的姓名、QQ 号、所处社团 / 部门，以及违规内容链接、违规原因。
 
-## 对于校方
+### 对于校方
 校方，如果您认为部分内容不符学校的利益，或对学生的身心发展有害，可以向我们发起移除申请，我们将遵照校方意见对导引进行修改。
 
 申请方式：
@@ -43,3 +48,9 @@ tags:
 2. 使用您的 QQ 邮箱，向 [imgradeone@outlook.com](mailto:imgradeone@outlook.com?subject=Aliver%20-%20校方内容修改申请) 发送邮件，主题为 `Aliver - 校方内容修改申请`（点击前序链接也可以），在正文里注明您的姓名、QQ 号，以及违规内容链接、违规原因。
 
 > 本节参考了 [温州市第五十一中学新生导引 联系我们](https://www.wz51z.wiki/联系我们.html) 页面。
+
+## 开源致谢
+
+本站采用了由 elementary 设计的 [Jekyll 博客模板](https://github.com/elementary/blog-template)，在此致谢。
+
+本站在 [GitHub](https://github.com/devswork-glzx/aliver) 开源，并使用 GitHub Pages 进行部署。
