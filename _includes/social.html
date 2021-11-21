@@ -36,6 +36,16 @@
     </a>
 
     <a
+    href="http://connect.qq.com/widget/shareqq/index.html?url={{ share-url }}&title={{ page.title }}"
+    rel="noreferrer nofollow noopener"
+    target="_blank"
+    title="QQ"
+    onclick="plausible('QQ 分享')"
+  >
+    <img src="{{ '/images/qq.svg' | prepend: site.baseurl }}" alt="QQ" />
+  </a>
+
+    <a
       href="{{ page.url | prepend: site.baseurl | prepend: site.url }}"
       title="链接"
       onclick="return share()"
