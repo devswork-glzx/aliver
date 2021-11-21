@@ -2,6 +2,9 @@
 title:  "hello, world."
 description: "欢迎来到 Aliver。"
 author: imgradeone
+
+tags:
+  - aliver
 ---
 
 > 让桂中活在你的面前。
