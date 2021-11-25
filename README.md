@@ -1,3 +1,5 @@
 # aliver
 
-README 待补充
+a new home for people in Guilin Middle School / 让桂中活在你的面前
+
+
