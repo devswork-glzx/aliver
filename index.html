@@ -45,12 +45,16 @@ redirect_from:
 </section>
 
 <nav class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">上一页</a>
+  {% if paginator.previous_page == 1 %}
+    <a href="/aliver/" class="previous">上一页</a>
+  {% endif %}
+
+  {% if paginator.previous_page != 1 and paginator.previous_page %}
+    <a href="/aliver/archive/{{ paginator.previous_page }}" class="previous">上一页</a>
   {% endif %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">下一页</a>
+    <a href="/aliver/archive/{{ paginator.next_page }}" class="next">下一页</a>
   {% endif %}
 </nav>
 

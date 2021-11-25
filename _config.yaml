@@ -1,4 +1,4 @@
-title: "Codename: Aliver"
+title: "Aliver"
 description: "让桂中活在你的面前。"
 permalink: /:title/
 theme-color: "#f66201"
@@ -32,7 +32,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
-paginate: 7
+paginate: 8
 paginate_path: "/archive/:num/"
 
 markdown: kramdown
