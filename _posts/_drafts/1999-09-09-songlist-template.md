@@ -5,8 +5,6 @@ author: csg
 
 tags:
   - csg-songlist
-
-hidden: true
 ---
 
 > 本页面仅针对 CSG 广播站歌单提供简洁易用的模板，您没有必要浏览本页面。
