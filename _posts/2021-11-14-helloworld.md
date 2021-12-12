@@ -56,3 +56,9 @@ tags:
 本站在 [GitHub](https://github.com/devswork-glzx/aliver) 开源，并使用 GitHub Pages 进行部署。
 
 本站也同样启用了支持自建的 Plausible 统计服务，所有页面访问数据均托管在 imgradeone 的服务器。您同样也可以查看 [公开的访问数据报表](https://stat.imgradeone.com/glzx.lfdevs.com)。
+
+## 关于 CSG 广播站歌单
+
+本站的歌单整理已经经过 CSG 广播站的授权，但历史内容目前不完善。
+
+如果你需要更完善的历史歌单，您可以访问桂林中学 CSG 广播站的 QQ 音乐个人主页（链接贴不了，在 QQ 音乐搜索 `桂林中学CSG广播站` 即可）。
