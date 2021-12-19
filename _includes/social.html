@@ -36,14 +36,24 @@
     </a>
 
     <a
-    href="http://connect.qq.com/widget/shareqq/index.html?url={{ share-url }}&title={{ page.title }}&desc={{ page.description }}&pics={{ page.image }}"
+    href="https://connect.qq.com/widget/shareqq/index.html?url={{ share-url }}&title={{ page.title }}&desc={{ page.description }}&pics={{ page.image }}"
     rel="noreferrer nofollow noopener"
     target="_blank"
     title="QQ"
     onclick="plausible('QQ 分享')"
   >
     <img src="{{ '/images/qq.svg' | prepend: site.baseurl }}" alt="QQ" />
-  </a>
+    </a>
+
+    <a
+      href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={{ share-url }}&title={{ page.title }}&desc={{ page.description }}&pics={{ page.image }}"
+      rel="noreferrer nofollow noopener"
+      target="_blank"
+      title="QQ 空间"
+      onclick="plausible('QQ 空间分享')"
+    >
+      <img src="{{ '/images/qzone.png' | prepend: site.baseurl }}" alt="QQ 空间" />
+    </a>
 
     <a
       href="{{ page.url | prepend: site.baseurl | prepend: site.url }}"
