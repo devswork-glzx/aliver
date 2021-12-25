@@ -74,8 +74,8 @@
 
   --bg-color: white;
   --fg-color: var(--black-500);
-  --accent-color: #fb8f06;
-  --header-bg-color: #f66201;
+  --accent-color: #fa408b;
+  --header-bg-color: #fa6a8d;
   --header-fg-color: var(--silver-100);
   --secondary-bg-color: #f5f5f5; // Instead of making up a Silver 200
   --secondary-fg-color: var(--black-300);
@@ -86,9 +86,9 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --bg-color: var(--black-700);
-    --header-bg-color: #f66201;
+    --header-bg-color: #fa6a8d;
     --fg-color: var(--silver-300);
-    --accent-color: #fb8f06;
+    --accent-color: #fa71b4;
     --secondary-bg-color: var(--black-500);
     --secondary-fg-color: var(--silver-300);
   }
