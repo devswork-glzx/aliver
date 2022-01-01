@@ -6,7 +6,6 @@ image: https://aliver-images.imgradeone.com/2021-12-25-news-learning-experience-
 
 tags:
 - news
-- clubs
 ---
 
 > 专心志，以赤子之心学习交流经验；忧天下，以青年之躯报国筚路蓝缕。
