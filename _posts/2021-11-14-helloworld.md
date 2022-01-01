@@ -19,17 +19,17 @@ tags:
 
 限于桂中官网时常关闭服务器，我们希望 Aliver 项目能成为更多桂中人的新家。
 
-## 社团合作
+## 稿件投递
 
-目前所有内容都由开发者工坊的社员手动更新，暂时未和任何社团进行正式合作。不过，我们欢迎校团委学生会部门和所有社团与我们展开合作。
+目前 Aliver 项目已经**全面开启对外征稿**，欢迎社团社长 / 副社、校团委学生部干事、学校教师 / 领导、已毕业学长及班级代表加入文章征稿，向更多人展示真实的桂中。
 
-您可以向 [imgradeone@outlook.com](mailto:imgradeone@outlook.com?subject=Aliver%20-%20社团合作申请) 发送邮件，主题为 `Aliver - 社团合作申请`（点击前序链接也可以），并在正文注明您的 QQ 号、管理的社团名称（或校团委学生会部门名称）和 GitHub（或 Gitee）个人主页链接（可选）。
+原有的邮箱投稿方式仍然保留，但**不建议继续使用**。您可以向 [imgradeone@outlook.com](mailto:imgradeone@outlook.com?subject=Aliver%20-%20社团合作申请) 发送邮件，主题为 `Aliver - 社团合作申请`（点击前序链接也可以），并在正文注明您的 QQ 号、管理的社团名称（或校团委学生会部门名称）和 GitHub（或 Gitee）个人主页链接（可选）。
+
+<div style="text-align: center">
+  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.lfdevs.com/aliver/aliver-open-article-contribution" class="button suggested">了解征稿详情</a></p>
+</div>
 
 如果您知道如何使用 Git 和 GitHub（Gitee 也可以），并备注了 GitHub / Gitee 的个人空间链接，我将邀请您直接加入 Aliver 仓库的成员列表中。（所有社团文章，请在 `dev` 分支及 `_posts/_drafts` 文件夹下修改）
-
-如果您不擅长使用 Git / GitHub / Gitee，我将与您使用 QQ 或邮箱联系（我的 QQ 将在邮件回复中发送给您），届时您可以使用 QQ 或邮箱附件向我发送稿件。请注意，稿件应采用 Word（`.doc` / `.docx`）、纯文本（`.txt`）或 Markdown（`.md`）格式。（由于网站管理者 imgradeone 在工作日无法登录 QQ，建议通过邮箱附件发送稿件。）
-
-请注意，我们不会允许 **社团普通成员（非管理者）** 且 **不属于校团委学生会干事** 的人参与 Aliver 的编辑。
 
 ## 转载须知
 
