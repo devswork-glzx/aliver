@@ -17,13 +17,15 @@ tags:
 
 目前我们主要整合 [CSG 广播站的每周歌单](https://glzx.lfdevs.com/aliver/tags/#csg-songlist)、桂中快讯的更新内容、[中国网小记者的新闻内容](https://glzx.lfdevs.com/aliver/tags/#chinacom-edu)（版权原因只放链接）、社团内容更新。
 
-限于桂中官网时常关闭服务器，我们希望 Aliver 项目能成为更多桂中人的新家。
+限于桂中官网时常关闭服务器（等下，桂中官网 `glzx.net` 直接 ping 不通了？），我们希望 Aliver 项目能成为更多桂中人的新家。
 
 ## 稿件投递
 
 目前 Aliver 项目已经**全面开启对外征稿**，欢迎社团社长 / 副社、校团委学生部干事、学校教师 / 领导、已毕业学长及班级代表加入文章征稿，向更多人展示真实的桂中。
 
-原有的邮箱投稿方式仍然保留，但**不建议继续使用**。您可以向 [imgradeone@outlook.com](mailto:imgradeone@outlook.com?subject=Aliver%20-%20社团合作申请) 发送邮件，主题为 `Aliver - 社团合作申请`（点击前序链接也可以），并在正文注明您的 QQ 号、管理的社团名称（或校团委学生会部门名称）和 GitHub（或 Gitee）个人主页链接（可选）。
+原有的邮箱投稿方式仍然保留，但**不建议继续使用**。
+
+<!-- 您可以向 [imgradeone@outlook.com](mailto:imgradeone@outlook.com?subject=Aliver%20-%20社团合作申请) 发送邮件，主题为 `Aliver - 社团合作申请`（点击前序链接也可以），并在正文注明您的 QQ 号、管理的社团名称（或校团委学生会部门名称）和 GitHub（或 Gitee）个人主页链接（可选）。 -->
 
 <div style="text-align: center">
   <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.lfdevs.com/aliver/aliver-open-article-contribution" class="button suggested">了解征稿详情</a></p>
