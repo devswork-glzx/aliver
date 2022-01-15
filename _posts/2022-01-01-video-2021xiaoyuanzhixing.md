@@ -26,4 +26,3 @@ tags:
 <div style="text-align: center">
   <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1TL411V7em" class="button">在 bilibili 观看</a></p>
 </div>
-<iframe src="" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
