@@ -12,9 +12,9 @@ a new home for people in Guilin Middle School / 让桂中活在你的面前
 
 ## 贡献指南
 
-您可以阅读 [社团合作](https://glzx.lfdevs.com/aliver/helloworld/#社团合作) 页面了解贡献详情。
+您可以阅读 [稿件投递](https://glzx.lfdevs.com/aliver/helloworld/#稿件投递) 页面了解贡献详情。
 
-请注意，我们不会允许 **社团普通成员（非管理者）** 且 **不属于校团委学生会干事** 的人参与 Aliver 的编辑。
+目前 Aliver 项目已经**全面开启对外征稿**，欢迎社团社长 / 副社、校团委学生部干事、学校教师 / 领导、已毕业学长及班级代表加入文章征稿，向更多人展示真实的桂中。
 
 ---
 
