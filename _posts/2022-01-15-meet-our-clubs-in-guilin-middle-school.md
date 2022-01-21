@@ -9,6 +9,7 @@ tags:
 ---
 
 > 本社团索引为 2021-2022 学年度版本，由开发者工坊桂林中学分部 Aliver 项目整理。部分内容引自《先锋》校刊和社团招新宣传。  
+> 该索引仍在更新中，如有缺失社团，请再等等。同时，也欢迎大家补充缺失的社团（联系方式详见 [关于我们](https://glzx.lfdevs.com/aliver/helloworld/)）。  
 > **该索引排序并非社团排名，请不要因为排序而随意评判社团优劣。**
 
 ## 时光驿客
@@ -19,7 +20,9 @@ tags:
 
 在学校的各大活动都有我们社团的身影：军训、校运会、校园之星、多校联谊、高三纪实、校园宣传片。我们负责拍视频和照片，记录下在校园生活每一个美好瞬间。还有社团明信片售卖！
 
-学校官方抖音号的部分视频我们也参与制作。在学校的支持与帮助下，我们正在组建校园电视台，组建成功以后，我们有更加优良的设备，可以学到更多的知识。
+[学校官方抖音号](https://www.douyin.com/user/MS4wLjABAAAAiJPzu3OXepzsLYkJpaRcusbHumfpGp9yjiZ6TR1mRUY) 的部分视频我们也参与制作。在学校的支持与帮助下，我们正在组建校园电视台，组建成功以后，我们有更加优良的设备，可以学到更多的知识。
+
+代表作有 [Coincidance 抖肩舞桂林中学版](https://www.bilibili.com/video/BV1CJ411r7LY)、[你对你的潜力一无所知 - 桂林中学 2020 高三纪实](https://www.bilibili.com/video/BV1Rg4y1v7aT)。
 
 ### 时光驿客内容推荐
 
@@ -151,6 +154,21 @@ TO 乐队是桂中的音乐类社团之一，内含主唱、电子琴手、吉�
 
 ## The Oral English Club（英语口语社）
 
+英语口语社是一个欢乐和谐、共同进步、青春洋溢的大家庭，是一个本着相互学习、积极提高自身能力为目标，有着浓厚的校园知识学习氛围的社团。
+
+## 我们剧团
+
+主要是排练舞台剧，在 [2021 年校园之星社团专场](https://www.bilibili.com/video/BV1nV411e7ch?t=1850) 准备的节目是音乐剧《吉屋出租》。
+
+## 桂中微影 2013
+
+顾名思义，创立于 2013 年，主要进行微电影的创作以及拍摄，以丰富学生课余生活。积极参与校园文化建设。
+
+代表作品有[《念》](https://www.bilibili.com/video/BV125411W7sT)、[《全境监控》](https://www.bilibili.com/video/BV1rt411V7cC)。
+
+<div style="text-align: center">
+  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://space.bilibili.com/442528905" class="button" style="button">桂中微影 2013 的 bilibili 个人空间</a></p>
+</div>
 
 ## 未完待续
 
