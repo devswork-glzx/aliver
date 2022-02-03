@@ -9,7 +9,7 @@ tags:
 ---
 
 > 本社团索引为 2021-2022 学年度版本，由开发者工坊桂林中学分部 Aliver 项目整理。部分内容引自《先锋》校刊和社团招新宣传。  
-> 该索引仍在更新中，如有缺失社团，请再等等。同时，也欢迎大家补充缺失的社团（联系方式详见 [关于我们](https://glzx.lfdevs.com/aliver/helloworld/)）。  
+> 该索引仍在更新中，如有缺失社团，请再等等。同时，也欢迎大家补充缺失的社团（联系方式详见 [关于我们](https://glzx.xyz/helloworld/)）。  
 > **该索引排序并非社团排名，请不要因为排序而随意评判社团优劣。**
 
 ## 时光驿客
@@ -34,7 +34,7 @@ tags:
 > 目前时光驿客的内容由 imgradeone 整理并更新。
 
 <div style="text-align: center">
-  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.lfdevs.com/aliver/authors/#sgyk" class="button suggested" style="">Aliver 中的文章</a>
+  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.xyz/authors/#sgyk" class="button suggested" style="">Aliver 中的文章</a>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://glzxsgyk.com" class="button flat">时光驿客官方网站</a></p>
 </div>
 
@@ -56,7 +56,7 @@ tags:
 > 目前 LIFE 摄影社的内容由 imgradeone 整理并更新。
 
 <div style="text-align: center">
-  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.lfdevs.com/aliver/authors/#life" class="button suggested" style="">Aliver 中的文章</a></p>
+  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.xyz/authors/#life" class="button suggested" style="">Aliver 中的文章</a></p>
 </div>
 
 ## 开发者工坊

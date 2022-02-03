@@ -42,4 +42,4 @@ Aliver 重排版：imgradeone
 
 ---
 
-新闻部若认为本站的转载侵犯了权益，请按照 [侵权申诉](https://glzx.lfdevs.com/aliver/helloworld/#侵权申诉) 的指引联系本站管理员。
+新闻部若认为本站的转载侵犯了权益，请按照 [侵权申诉](https://glzx.xyz/helloworld/#侵权申诉) 的指引联系本站管理员。

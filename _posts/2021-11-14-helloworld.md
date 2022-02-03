@@ -15,7 +15,7 @@ tags:
 
 这里是由开发者工坊 桂林中学分部发起的全新项目，旨在汇总桂中各类消息，让桂中人快速获得想要的信息。
 
-目前我们主要整合 [CSG 广播站的每周歌单](https://glzx.lfdevs.com/aliver/tags/#csg-songlist)、桂中快讯的更新内容、[中国网小记者的新闻内容](https://glzx.lfdevs.com/aliver/tags/#chinacom-edu)（版权原因只放链接）、社团内容更新。
+目前我们主要整合 [CSG 广播站的每周歌单](https://glzx.xyz/tags/#csg-songlist)、桂中快讯的更新内容、[中国网小记者的新闻内容](https://glzx.xyz/tags/#chinacom-edu)（版权原因只放链接）、社团内容更新。
 
 限于桂中官网时常关闭服务器（等下，桂中官网 `glzx.net` 直接 ping 不通了？），我们希望 Aliver 项目能成为更多桂中人的新家。
 
@@ -28,7 +28,7 @@ tags:
 <!-- 您可以向 [imgradeone@outlook.com](mailto:imgradeone@outlook.com?subject=Aliver%20-%20社团合作申请) 发送邮件，主题为 `Aliver - 社团合作申请`（点击前序链接也可以），并在正文注明您的 QQ 号、管理的社团名称（或校团委学生会部门名称）和 GitHub（或 Gitee）个人主页链接（可选）。 -->
 
 <div style="text-align: center">
-  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.lfdevs.com/aliver/aliver-open-article-contribution" class="button suggested">了解征稿详情</a></p>
+  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.xyz/aliver-open-article-contribution" class="button suggested">了解征稿详情</a></p>
 </div>
 
 如果您知道如何使用 Git 和 GitHub（Gitee 也可以），并备注了 GitHub / Gitee 的个人空间链接，我将邀请您直接加入 Aliver 仓库的成员列表中。（所有社团文章，请在 `dev` 分支及 `_posts/_drafts` 文件夹下修改）
