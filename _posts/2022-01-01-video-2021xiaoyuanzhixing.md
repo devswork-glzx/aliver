@@ -2,6 +2,7 @@
 title: "桂林中学 2021 年校园之星【回放视频】"
 description: ""
 author: life
+image: https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/15.jpg
 
 tags:
 - clubs
