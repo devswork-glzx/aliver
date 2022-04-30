@@ -2,7 +2,7 @@
 title: "桂林中学 2021 年校园之星【回放视频】"
 description: ""
 author: life
-image: https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/15.jpg
+image: https://glzx.lfdevs.com/aliver-images/2022-01-02-news-2021xiaoyuanzhixing/compressed/15.jpg
 
 tags:
 - clubs
@@ -21,8 +21,8 @@ tags:
 
 ## 节目单
 
-![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-01-video-2021xiaoyuanzhixing/1.jpg)
-![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-01-video-2021xiaoyuanzhixing/2.jpg)
+![](https://glzx.lfdevs.com/aliver-images/2022-01-01-video-2021xiaoyuanzhixing/1.jpg)
+![](https://glzx.lfdevs.com/aliver-images/2022-01-01-video-2021xiaoyuanzhixing/2.jpg)
 
 <div style="text-align: center">
   <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1TL411V7em" class="button">在 bilibili 观看</a></p>

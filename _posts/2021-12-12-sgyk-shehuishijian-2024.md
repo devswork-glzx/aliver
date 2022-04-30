@@ -2,7 +2,7 @@
 title: "桂林中学 2024 届社会实践基地纪实【时光驿客出品】"
 description: "一起流下的汗水。"
 author: sgyk
-image: https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-12-12-sgyk-shehuishijian-2024/thumb.jpg
+image: https://glzx.lfdevs.com/aliver-images/2021-12-12-sgyk-shehuishijian-2024/thumb.jpg
 
 tags:
 - clubs

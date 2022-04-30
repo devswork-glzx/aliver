@@ -2,7 +2,7 @@
 title: "记 2021 年桂林中学学习交流经验会"
 description: "专心志，以赤子之心学习交流经验；忧天下，以青年之躯报国筚路蓝缕"
 author: glzx
-image: https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-12-25-news-learning-experience-2021/1.jfif
+image: https://glzx.lfdevs.com/aliver-images/2021-12-25-news-learning-experience-2021/1.jfif
 
 tags:
 - news
@@ -22,12 +22,12 @@ tags:
 青灯照映，月光空明，不知不觉中，学习交流会已近尾声，同学们带着丰富的学习经验，满载而归。学不息，习不止，交流学习，提高效率，十年寒窗，终将金榜题名。祝愿桂中学子们于满园芳艳中释放独特光彩，以赤子之心追求人生理想。
 
 <figure class="third" markdown="1">
-![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-12-25-news-learning-experience-2021/1.jfif)
-![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-12-25-news-learning-experience-2021/2.jfif)
-![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-12-25-news-learning-experience-2021/3.jfif)
-![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-12-25-news-learning-experience-2021/4.jfif)
-![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-12-25-news-learning-experience-2021/5.jfif)
-![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-12-25-news-learning-experience-2021/6.jfif)
+![](https://glzx.lfdevs.com/aliver-images/2021-12-25-news-learning-experience-2021/1.jfif)
+![](https://glzx.lfdevs.com/aliver-images/2021-12-25-news-learning-experience-2021/2.jfif)
+![](https://glzx.lfdevs.com/aliver-images/2021-12-25-news-learning-experience-2021/3.jfif)
+![](https://glzx.lfdevs.com/aliver-images/2021-12-25-news-learning-experience-2021/4.jfif)
+![](https://glzx.lfdevs.com/aliver-images/2021-12-25-news-learning-experience-2021/5.jfif)
+![](https://glzx.lfdevs.com/aliver-images/2021-12-25-news-learning-experience-2021/6.jfif)
 </figure>
 
 ---

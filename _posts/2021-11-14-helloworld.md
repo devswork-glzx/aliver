@@ -3,13 +3,13 @@ title:  "hello, world."
 description: "欢迎来到 Aliver。"
 author: imgradeone
 
-image: https://glzx.lfdevs.com/aliver-images/.imgradeone.com/media.png
+image: https://glzx.lfdevs.com/aliver-images/media.png
 
 tags:
   - aliver
 ---
 
-![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/media.png)
+![](https://glzx.lfdevs.com/aliver-images/media.png)
 
 > 让桂中活在你的面前。
 
