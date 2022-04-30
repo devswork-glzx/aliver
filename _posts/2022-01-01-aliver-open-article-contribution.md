@@ -3,7 +3,7 @@ title:  "Aliver 文章征稿正式开放"
 description: "全新的桂中信息站，现正式对外开启征稿"
 author: imgradeone
 
-image: https://aliver-images.imgradeone.com/media.png
+image: https://glzx.lfdevs.com/aliver-images/.imgradeone.com/media.png
 
 tags:
   - aliver

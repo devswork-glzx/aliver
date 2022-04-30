@@ -2,7 +2,7 @@
 title: "记 2021 年桂林中学校团委学生会参加五校交流活动"
 description: "青春征途，星辰大海"
 author: glzx
-image: https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/8.jpg
+image: https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-11-21-news-wuxiao/8.jpg
 
 tags:
 - news
@@ -21,15 +21,15 @@ tags:
 最后，祝愿五大兄弟学校友谊长存，共同发展，一起书写新时代的辉煌！
 
 <figure class="third" markdown="1">
-![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/1.jpg)
-![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/2.jpg)
-![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/3.jpg)
-![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/4.jpg)
-![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/5.jpg)
-![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/6.jpg)
-![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/7.jpg)
-![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/8.jpg)
-![](https://aliver-images.imgradeone.com/2021-11-21-news-wuxiao/9.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-11-21-news-wuxiao/1.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-11-21-news-wuxiao/2.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-11-21-news-wuxiao/3.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-11-21-news-wuxiao/4.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-11-21-news-wuxiao/5.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-11-21-news-wuxiao/6.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-11-21-news-wuxiao/7.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-11-21-news-wuxiao/8.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2021-11-21-news-wuxiao/9.jpg)
 </figure>
 
 ---

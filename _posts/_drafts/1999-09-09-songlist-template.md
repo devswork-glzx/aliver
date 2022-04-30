@@ -2,7 +2,7 @@
 title: "CSG 广播站 20xx-xx-xx 至 xx-xx 歌单"
 description: "模板罢了"
 author: csg
-image: https://aliver-images.imgradeone.com/songlist-2022.png
+image: https://glzx.lfdevs.com/aliver-images/.imgradeone.com/songlist-2022.png
 
 tags:
   - csg-songlist

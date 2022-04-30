@@ -2,7 +2,7 @@
 title: "记桂林中学 2021 年校园之星总决赛"
 description: "歌舞青春，星耀桂中"
 author: glzx
-image: https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/1.jpg
+image: https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/1.jpg
 
 tags:
 - news
@@ -17,22 +17,22 @@ tags:
 本次校园之星活动于晚上 22:30 圆满落下了帷幕。这次活动，充分展现了同学们的风采和活力，增进了兄弟学校之间的友谊，也为桂林中学 2021 年的活动画下了一个圆满的句号。希望同学们在 2022 年有崭新的开始，也让我们一起在新的一年里建设更加和谐美丽的桂中！
 
 <figure class="third" markdown="1">
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/1.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/2.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/3.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/4.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/5.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/6.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/7.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/8.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/9.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/10.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/11.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/12.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/13.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/14.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/15.jpg)
-![](https://aliver-images.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/16.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/1.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/2.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/3.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/4.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/5.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/6.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/7.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/8.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/9.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/10.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/11.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/12.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/13.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/14.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/15.jpg)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/2022-01-02-news-2021xiaoyuanzhixing/compressed/16.jpg)
 </figure>
 
 ---

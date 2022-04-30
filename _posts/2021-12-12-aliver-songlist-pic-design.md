@@ -2,7 +2,7 @@
 title:  "CSG 广播站歌单封面图片设计"
 description: "刚刚用 Figma 肝的"
 author: imgradeone
-image: https://aliver-images.imgradeone.com/songlist-2022.png
+image: https://glzx.lfdevs.com/aliver-images/.imgradeone.com/songlist-2022.png
 
 tags:
 - aliver
@@ -12,11 +12,11 @@ tags:
 
 ## 2022 版图片
 
-![](https://aliver-images.imgradeone.com/songlist-2022-2x.png)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/songlist-2022-2x.png)
 
 ## 2021 版图片
 
-![](https://aliver-images.imgradeone.com/songlist-2x.png)
+![](https://glzx.lfdevs.com/aliver-images/.imgradeone.com/songlist-2x.png)
 
 ---
 
