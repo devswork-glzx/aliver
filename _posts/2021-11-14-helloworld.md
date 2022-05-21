@@ -67,7 +67,7 @@ tags:
 
 本站的歌单整理已经经过 CSG 广播站的授权，但历史内容目前不完善。
 
-如果你需要更完善的历史歌单，您可以访问桂林中学 CSG 广播站的 QQ 音乐个人主页（链接贴不了，在 QQ 音乐搜索 `桂林中学CSG广播站` 即可），或者广播站官方 QQ 空间。您也可以在 Spotify 获取由 imgradeone 整理的较为完整的整合歌单。
+如果你需要更完善的历史歌单，您可以访问桂林中学 CSG 广播站的 QQ 音乐个人主页（链接贴不了，在 QQ 音乐搜索 `桂林中学CSG广播站` 即可），或者广播站官方 QQ 空间。您也可以在 Spotify 获取由 imgradeone 整理的较为完整的整合歌单，但受到 imgradeone 的 Spotify 账号内歌单被清空事件的影响，**Spotify 的歌单将不再更新。**
 
 <div style="text-align: center">
   <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://open.spotify.com/playlist/5TL2SJ5wauDfccN9AJqdLI?si=0534eeb3fa0b4cd6" class="button">立即打开 Spotify 聆听</a></p>
