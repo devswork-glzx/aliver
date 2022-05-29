@@ -9,6 +9,8 @@ tags:
 - clubs
 ---
 
+![](https://glzx.lfdevs.com/aliver-images/2022-05-29-duoxiaolianyi-2022/pic-2x.jpeg)
+
 久！等！啦！
 
 大家期待已久的「多校联谊」以及「校园之星社团场决赛」终于要来了！
