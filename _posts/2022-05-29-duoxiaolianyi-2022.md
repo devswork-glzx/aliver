@@ -21,6 +21,14 @@ tags:
 
 —— 一切尽在 2022 年 5 月 29 日 18:00 准时开始的“第七届多校联谊 社团展示大赛”！
 
+---
+
+地点：桂林中学临桂校区报告厅
+
+主办方：桂林市桂林中学
+
+参赛学校：桂林市桂林中学、桂林市逸仙中学、桂林市中山中学、桂林市桂电中学、桂林市奎光学校、桂林市第一中学
+
 <div style="text-align: center">
   <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://wx.vzan.com/live/page/5C21F2E7BD1BB965C2236C47612DF906" class="button suggested">观看直播</a></p>
 </div>
