@@ -22,7 +22,7 @@ tags:
 —— 一切尽在 2022 年 5 月 29 日 18:00 准时开始的“第七届多校联谊 社团展示大赛”！
 
 <div style="text-align: center">
-  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://wx.vzan.com/live/page/5C21F2E7BD1BB965C2236C47612DF906" class="button">观看直播</a></p>
+  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://wx.vzan.com/live/page/5C21F2E7BD1BB965C2236C47612DF906" class="button suggested">观看直播</a></p>
 </div>
 
 ---
