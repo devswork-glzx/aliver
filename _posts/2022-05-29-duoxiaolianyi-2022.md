@@ -31,6 +31,8 @@ tags:
 
 参赛学校：桂林市桂林中学、桂林市逸仙中学、桂林市中山中学、桂林市桂电中学、桂林市奎光学校、桂林市第一中学
 
+> 回放届时会在本站更新。
+
 <div style="text-align: center">
   <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://wx.vzan.com/live/page/5C21F2E7BD1BB965C2236C47612DF906" class="button suggested">观看直播</a></p>
 </div>
@@ -39,4 +41,4 @@ tags:
 
 **文字 / 头图：** 桂林中学校团委学生会
 
-**直播技术支持：** 微赞
+**直播技术支持：** 微赞、雅美文化
