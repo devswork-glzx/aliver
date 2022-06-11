@@ -31,10 +31,9 @@ tags:
 
 参赛学校：桂林市桂林中学、桂林市逸仙中学、桂林市中山中学、桂林市桂电中学、桂林市奎光学校、桂林市第一中学
 
-> 回放届时会在本站更新。
-
 <div style="text-align: center">
-  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://wx.vzan.com/live/page/5C21F2E7BD1BB965C2236C47612DF906" class="button suggested">观看直播</a></p>
+  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://wx.vzan.com/live/page/5C21F2E7BD1BB965C2236C47612DF906" class="button suggested">回放链接</a></p><br>
+  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1Na411L7Gw" class="button flat">imgradeone 的 B 站搬运</a></p>
 </div>
 
 ---
