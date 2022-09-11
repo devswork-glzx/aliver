@@ -3,7 +3,7 @@ title: "Aliver 的下一步？"
 description: "我不想摆烂。"
 author: imgradeone
 
-image: https://glzx.lfdevs.com/aliver-images/media.png
+image: https://devswork-glzx.github.io/aliver-images/media.png
 
 tags:
   - aliver

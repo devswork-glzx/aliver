@@ -2,7 +2,7 @@
 title: "桂中社团一览"
 description: "因为我们想让你看到多姿多彩的桂中。"
 author: imgradeone
-#image: https://glzx.lfdevs.com/aliver-images/2021-12-25-news-learning-experience-2021/1.jfif
+#image: https://devswork-glzx.github.io/aliver-images/2021-12-25-news-learning-experience-2021/1.jfif
 
 tags:
 - clubs
@@ -63,14 +63,14 @@ tags:
 
 你现在访问的这个网站 Aliver 项目就是由开发者工坊桂林中学分部发起的。
 
-开发者工坊是由一群热爱编程的中学生组成的学生组织，我们为推动编程在青少年中流行而努力，目前在桂林共发展了 3 个分部（十八中 / 桂中 / 首师大附中）。即使你是零基础的编程“小白”，你也可以加入我们，我们将提供充分的学习资料（比如现在就可以在线阅读的 [Python 教程](https://glzx.lfdevs.com/python-tutorial/)）。我们也提供线上线下交流编程的平台，以及协作开发的 Git 平台~~（虽然基本没人用 GitHub……）~~。
+开发者工坊是由一群热爱编程的中学生组成的学生组织，我们为推动编程在青少年中流行而努力，目前在桂林共发展了 3 个分部（十八中 / 桂中 / 首师大附中）。即使你是零基础的编程“小白”，你也可以加入我们，我们将提供充分的学习资料（比如现在就可以在线阅读的 [Python 教程](https://devswork-glzx.github.io/python-tutorial/)）。我们也提供线上线下交流编程的平台，以及协作开发的 Git 平台~~（虽然基本没人用 GitHub……）~~。
 
 本部在十八中，目前也会积极开展分部联动。
 
 > Aliver 项目暂时未开始以开发者工坊为名义进行文章创作。
 
 <div style="text-align: center">
-  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.lfdevs.com/" class="button suggested" style="">开发者工坊桂中分部 官方网站</a></p>
+  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://devswork-glzx.github.io/" class="button suggested" style="">开发者工坊桂中分部 官方网站</a></p>
 </div>
 
 ## TOOL 道具社

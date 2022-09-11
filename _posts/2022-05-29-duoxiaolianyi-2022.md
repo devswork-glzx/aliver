@@ -2,14 +2,14 @@
 title: "桂林中学 2022 校园之星社团场决赛暨第七届多校联谊社团风采展示大赛"
 description: "这不是一个人的独乐，而是六个兄弟学校的狂欢！"
 author: imgradeone
-image: https://glzx.lfdevs.com/aliver-images/2022-05-29-duoxiaolianyi-2022/pic.jpeg
+image: https://devswork-glzx.github.io/aliver-images/2022-05-29-duoxiaolianyi-2022/pic.jpeg
 
 tags:
 - news
 - clubs
 ---
 
-![](https://glzx.lfdevs.com/aliver-images/2022-05-29-duoxiaolianyi-2022/pic-2x.jpeg)
+![](https://devswork-glzx.github.io/aliver-images/2022-05-29-duoxiaolianyi-2022/pic-2x.jpeg)
 
 久！等！啦！
 
