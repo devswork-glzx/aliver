@@ -59,9 +59,7 @@ tags:
 
 本站采用了由 elementary 设计的 [Jekyll 博客模板](https://github.com/elementary/blog-template)，在此致谢。
 
-本站在 [GitHub](https://github.com/devswork-glzx/aliver) 开源，并使用 GitHub Pages 进行部署。
-
-本站也同样启用了支持自建的 Plausible 统计服务，所有页面访问数据均托管在 imgradeone 的服务器。您同样也可以查看 [公开的访问数据报表](https://stat.imgradeone.com/glzx.xyz)。（旧域名时期的 [数据报表](https://stat.imgradeone.com/glzx.lfdevs.com) 可在此查看）
+本站在 [GitHub](https://github.com/devswork-glzx/aliver) 开源（但随时可能闭源），并使用 GitHub Pages 进行部署。
 
 ## 关于 CSG 广播站歌单
 
