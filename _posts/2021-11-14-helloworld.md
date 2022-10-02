@@ -1,6 +1,6 @@
 ---
 title:  "hello, world."
-description: "欢迎来到 Aliver。"
+description: "欢迎来到 Project Aliver"
 author: imgradeone
 
 image: https://devswork-glzx.github.io/aliver-images/media.png
@@ -13,15 +13,15 @@ tags:
 
 > 让桂中活在你的面前。
 
-这里是由开发者工坊 桂林中学分部发起的全新项目，旨在汇总桂中各类消息，让桂中人快速获得想要的信息。
+这里是由开发者工坊 桂林中学分部发起的 Project Aliver，旨在汇总桂中各类消息，让桂中人快速获得想要的信息。
 
 目前我们主要整合 [CSG 广播站的每周歌单](https://glzx.xyz/tags/#csg-songlist)、桂中快讯的更新内容、[中国网小记者的新闻内容](https://glzx.xyz/tags/#chinacom-edu)（版权原因只放链接）、社团内容更新。
 
-限于桂中官网时常关闭服务器（等下，桂中官网 `glzx.net` 直接 ping 不通了？），我们希望 Aliver 项目能成为更多桂中人的新家。
+限于桂中官网时常关闭服务器（等下，桂中官网 `glzx.net` 直接 ping 不通了？），我们希望 Project Aliver 能成为更多桂中人的新家。
 
 ## 稿件投递
 
-目前 Aliver 项目已经**全面开启对外征稿**，欢迎社团社长 / 副社、校团委学生部干事、学校教师 / 领导、已毕业学长及班级代表加入文章征稿，向更多人展示真实的桂中。
+目前 Project Aliver 已经**全面开启对外征稿**，欢迎社团社长 / 副社、校团委学生部干事、学校教师 / 领导、已毕业学长及班级代表加入文章征稿，向更多人展示真实的桂中。
 
 原有的邮箱投稿方式仍然保留，但**不建议继续使用**。
 
@@ -31,11 +31,11 @@ tags:
   <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.xyz/aliver-open-article-contribution" class="button suggested">了解征稿详情</a></p>
 </div>
 
-如果您知道如何使用 Git 和 GitHub（Gitee 也可以），并备注了 GitHub / Gitee 的个人空间链接，我将邀请您直接加入 Aliver 仓库的成员列表中。（所有社团文章，请在 `dev` 分支及 `_posts/_drafts` 文件夹下修改）
+如果您知道如何使用 Git 和 GitHub（Gitee 也可以），并备注了 GitHub / Gitee 的个人空间链接，我将邀请您直接加入 Project Aliver 仓库的成员列表中。（所有社团文章，请在 `dev` 分支及 `_posts/_drafts` 文件夹下修改）
 
 ## 转载须知
 
-一般情况下，您不应在未提及原文链接的情况下转载本站的任何文章。如实在希望转载，请至少加上 `来源：开发者工坊 桂林中学分部 Aliver 项目` 字样和文章源链接。
+一般情况下，您不应在未提及原文链接的情况下转载本站的任何文章。如实在希望转载，请至少加上 `来源：Project Aliver（开发者工坊 桂林中学分部）` 字样和文章源链接。
 
 ## 关于历史内容
 如果你发现本站包含了建站之前的内容（从本文之后排序），属于正常现象。

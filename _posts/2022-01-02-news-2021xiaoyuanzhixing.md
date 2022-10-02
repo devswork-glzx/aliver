@@ -45,7 +45,7 @@ tags:
 
 **审：**团委书记 陈艳老师
 
-**Aliver 重排版**：imgradeone
+**Project Aliver 重排版**：imgradeone
 
 > 备注：为避免服务器流量的过度消耗，本处引用的所有图片均经过压缩。您可以在 [GitHub](https://github.com/devswork-glzx/aliver-images/tree/main/2022-01-02-news-2021xiaoyuanzhixing/original) / [Gitee](https://gitee.com/devswork-glzx/aliver-images/tree/main/2022-01-02-news-2021xiaoyuanzhixing/original) 获取原图。
 

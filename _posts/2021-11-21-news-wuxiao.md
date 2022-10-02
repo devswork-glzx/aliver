@@ -38,7 +38,7 @@ tags:
 
 图源：桂电中学校团委学生会 桂林中学校团委学生会新闻部
 
-Aliver 重排版：imgradeone
+Project Aliver 重排版：imgradeone
 
 ---
 

@@ -8,7 +8,7 @@ tags:
 - clubs
 ---
 
-> 本社团索引为 2021-2022 学年度版本，由开发者工坊桂林中学分部 Aliver 项目整理。部分内容引自《先锋》校刊和社团招新宣传资料。  
+> 本社团索引为 2021-2022 学年度版本，由 Project Aliver 项目整理。部分内容引自《先锋》校刊和社团招新宣传资料。**2022-2023 学年度版本即将更新，敬请期待。**  
 > 该索引仍在更新中，如有缺失社团，请再等等，或者查看文末的 [一些暂时没详细介绍的社团](#一些暂时没详细介绍的社团) 一节。同时，也欢迎大家补充缺失的社团（联系方式详见 [关于我们](https://glzx.xyz/helloworld/)）。  
 > **该索引排序并非社团排名，请不要因为排序而随意评判社团优劣。**
 
@@ -34,7 +34,7 @@ tags:
 > 目前时光驿客的内容由 imgradeone 整理并更新。
 
 <div style="text-align: center">
-  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.xyz/authors/#sgyk" class="button suggested" style="">Aliver 中的文章</a>
+  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.xyz/authors/#sgyk" class="button suggested" style="">Project Aliver 中的文章</a>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://glzxsgyk.com" class="button flat">时光驿客官方网站</a></p>
 </div>
 
@@ -56,7 +56,7 @@ tags:
 > 目前 LIFE 摄影社的内容由 imgradeone 整理并更新。
 
 <div style="text-align: center">
-  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.xyz/authors/#life" class="button suggested" style="">Aliver 中的文章</a></p>
+  <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://glzx.xyz/authors/#life" class="button suggested" style="">Project Aliver 中的文章</a></p>
 </div>
 
 ## 开发者工坊
@@ -67,7 +67,7 @@ tags:
 
 本部在十八中，目前也会积极开展分部联动。
 
-> Aliver 项目暂时未开始以开发者工坊为名义进行文章创作。
+> Project Aliver 项目暂时未开始以开发者工坊为名义进行文章创作。
 
 <div style="text-align: center">
   <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://devswork-glzx.github.io/" class="button suggested" style="">开发者工坊桂中分部 官方网站</a></p>
@@ -85,7 +85,7 @@ SKR 说唱社是桂林中学社团中的音乐类社团之一，社团主要活�
 
 曾获得过桂林中学校园之星社团场第三名。
 
-> 其实 Aliver 项目组已经跟 SKR 说唱社社长合作了，只是那边目前还没什么内容能发到这里……
+> 其实 Project Aliver 项目组已经跟 SKR 说唱社社长合作了，只是那边目前还没什么内容能发到这里……
 
 <div style="text-align: center">
   <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://space.bilibili.com/1165250380" class="button" style="button">SKR 说唱社的 bilibili 个人空间</a></p>
@@ -115,7 +115,7 @@ TO 乐队是桂中的音乐类社团之一，内含主唱、电子琴手、吉�
 
 主要活动：主办社团联谊·校园文化音乐节；参加校园内比赛。
 
-> 目前知音联盟器乐社已经参与到 Aliver 的征稿当中。
+> 目前知音联盟器乐社已经参与到 Project Aliver 的征稿当中。
 
 ## 模拟联合国大会
 
@@ -153,7 +153,7 @@ TO 乐队是桂中的音乐类社团之一，内含主唱、电子琴手、吉�
 
 在这里，可以和学长学姐们一起讨论历史，分享历史书籍，相互学习，相互促进。不要求一定要学文或选修历史！只要喜欢历史，都可以加入我们历史社!
 
-> 目前历史社已经参与到 Aliver 的征稿当中。
+> 目前历史社已经参与到 Project Aliver 的征稿当中。
 
 ## 英语协会（原英语口语社）
 
