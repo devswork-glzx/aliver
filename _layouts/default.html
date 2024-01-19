@@ -3,6 +3,7 @@
   {% include head.html %}
   <body class="{% if page.url == '/' %}home {% endif %}">
     {% include nav.html %}
+    {% include archived.html %}
     <section>
       {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
     </section>
